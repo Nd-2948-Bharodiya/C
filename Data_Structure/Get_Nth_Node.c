@@ -4,7 +4,7 @@ Hello, all.
 Write a Linked list program which has GetNth() function that takes a linked list and an integer index and returns the data
 value stored in the node at that index position.
 
-/*
+*/
 #include<stdio.h>
 #include<malloc.h>
 typedef struct st
